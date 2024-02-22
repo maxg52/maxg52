@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+My name is Max, and my pronouns are he/him 
+
+I'm currently learning GitHub for some courses I'm taking, as well as for my personal benefit 💚
 
 <!--
 **maxg52/maxg52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
